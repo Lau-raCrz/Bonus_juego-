@@ -1,6 +1,6 @@
 # Ejercicio de bonus
 
-##  Objetivo del laboratorio
+##  Objetivo 
 
 El objetivo de este laboratorio fue implementar un videojuego en Pygame controlado por múltiples hilos y sincronizado mediante semáforos, con el propósito de comprender el funcionamiento de la concurrencia, los mecanismos de exclusión mutua (Lock) y la coordinación de acceso a recursos compartidos (Semaphore).
 
